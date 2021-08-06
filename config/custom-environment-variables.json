@@ -1,0 +1,7 @@
+{
+    "mail":{
+        "password":"replica_password"
+    },
+    "jwtPrivateKey": "replica_jwtPrivatekey"
+
+}

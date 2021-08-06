@@ -1,0 +1,7 @@
+{
+    "name":"development-replica",
+    "mail":{
+        "host": "dev-mail-server"
+    },
+    "jwtPrivateKey": ""
+}
